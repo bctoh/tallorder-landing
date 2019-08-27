@@ -12,4 +12,4 @@ Learn more about our mission, vision and values <u><a href="https://www.notion.s
 Email us here 👉 [careers@tallorder.holdings](mailto:careers@tallorder.holdings)
 
 ## 📢 Feedback
-We love to speak to our users. Maybe a little too much.. but that helps up build products you love too. If you have any feedback for any of our products, hit us up 👉 [hello@tallorder.holdings](mailto:hello@tallorder.holdings)
+We love to speak to our users. Maybe a little too much.. but that helps us build products you love too. If you have any feedback for any of our products, hit us up 👉 [hello@tallorder.holdings](mailto:hello@tallorder.holdings)
