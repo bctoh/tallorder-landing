@@ -1,7 +1,7 @@
 ---
 title: Who we are
 layout: layouts/base.njk
-subtitle: We want to elevate healthcare by making digital tools that could empower the people
+subtitle: We want to elevate healthcare by making digital tools that empower both practitioners and individuals
 ---
 
 ## 🚩 Our culture
